@@ -1,6 +1,5 @@
 # flowers Classification
 
-
 ### About:
 This project aims at using an Flowers images dataset to predict the class of each flower by using Convlutional Neural Network.
 The dataset consists of 5 classes, namely; Daisy, Dandelions, Rose, Sunflowers and Tulips. 
