@@ -8,3 +8,5 @@ The dataset consists of 5 classes, namely; Daisy, Dandelions, Rose, Sunflowers a
 The predicted model achieved an accuracy of 75% with 4 Convlutional layers, leakyReLU as an activation function and Adam as an optimizer.
 
 for more details 
+- <a href="https://github.com/su-daw/flowers-classification/blob/main/report.md
+">Report</a>
