@@ -10,3 +10,5 @@ The predicted model achieved an accuracy of 75% with 4 Convlutional layers, leak
 For more details 
 - <a href="https://github.com/su-daw/flowers-classification/blob/main/report.md
 ">Report</a>
+
+Proposed by: Sultanah Aldossari
