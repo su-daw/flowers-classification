@@ -11,4 +11,4 @@ For more details
 - <a href="https://github.com/su-daw/flowers-classification/blob/main/report.md
 ">Report</a>
 
-Proposed by: Sultanah Aldossari
+by: Sultanah Aldossari
